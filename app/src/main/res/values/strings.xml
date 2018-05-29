@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SDScanner</string>
+    <string name="pref_name">sdscanner_pref</string>
+    <string name="pref_total_files">total_no_of_files</string>
+    <string name="pref_names">my_files_names</string>
+    <string name="pref_total_files_size">total_files_size</string>
+    <string name="pref_file_exe">exe</string>
+
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="checkmyreport">Check My Report</string>
+
+    <string name="no_permission">Please Provide Permission</string>
+    <string name="complete_scan">Check the Report, Scan is completed successfully</string>
+    <string name="tv_total_files">My Total Files : </string>
+    <string name="tv_total_files_size">My Files Total Size : </string>
+    <string name="tv_avg_files">Average Of My files : </string>
+    <string name="tv_top_5_file_sizes">Top 5 of My File Sizes : </string>
+    <string name="lets_share">Let\'s Share</string>
+    <string name="scannedfiles">SCANNED FILES</string>
+</resources>
